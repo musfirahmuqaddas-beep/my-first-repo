@@ -1,1 +1,2 @@
-# this is my first GitHub repository
+# My First GitHub Repository
+This repository is created to practice Git and GitHub.
